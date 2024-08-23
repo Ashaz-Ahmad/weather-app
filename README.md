@@ -1,7 +1,7 @@
 # Weather App
 
 ## Overview
-This is a simple weather application built with Python and PyQt5. It allows a user to enter a city name and retrieve the current weather conditions, including temperature and a weather description. The user can also toggle between Celsius and Fahrenheit temperature units using the settings dialog.
+This is a simple weather application built with Python and PyQt5. It allows a user to enter a city name and retrieve the current weather conditions, including temperature and a weather description. The user can also toggle between Celsius and Fahrenheit temperature units using the settings.
 
 ## Features
 - Retrieve real-time weather information for any city using an OpenWeatherMap API
