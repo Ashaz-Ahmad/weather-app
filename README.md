@@ -47,5 +47,5 @@ pip install -r requirements.txt
 # Replace the placeholder API key in the weather.py file with your actual API key.
 # If you forget to do this, you will get the Invalid API key error when you run the program in the next step.
 
-# 5. Run the application:
+# 5. Run the application with the following terminal command:
 python main.py
